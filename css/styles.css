@@ -1,0 +1,36 @@
+.hero{
+    background: url('../assets/hero-leaf1.png' ) , url('../assets/hero-leaf2.png');
+    background-position: left bottom , right bottom;
+    background-repeat: no-repeat;
+    background-color: rgba(207, 240, 220, 1);
+    background-size: 200px 200px;
+}
+
+.active-class{
+    background-color:#15803D;
+    color: white;
+}
+
+button:hover , a:hover {
+    cursor: pointer;
+}
+
+.ac:hover {
+    background-color:#15803D;
+    color: white;
+}
+
+@media (min-width: 1100px) {
+    .hero{
+        background-size: 250px 250px;
+    }
+}
+
+@media (min-width : 1440px) {
+    .hero{
+        background: url('../assets/hero-leaf1.png' ) , url('../assets/hero-leaf2.png');
+        background-position: left bottom , right bottom;
+        background-repeat: no-repeat;
+        background-color: rgba(207, 240, 220, 1);;
+    }
+}
