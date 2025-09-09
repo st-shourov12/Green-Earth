@@ -1,6 +1,8 @@
 ## ASSIGNMENT-006 
 
 ---
+https://github.com/programming-hero-web-course-4/b12a6-green-earth2-st-shourov12
+---
 ####  Answer to the following question-
 
 #### 1) What is the difference between var, let, and const?
